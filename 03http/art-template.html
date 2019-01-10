@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--在浏览器端使用，需要引入-->
+    <script src="./node_modules/art-template/lib/template-web.js"></script>
+    <script type="text/template" id="tmp1">
+        {{name}}
+    </script>
+    <script>
+        var ret=template("tmp1",{
+            name:"我很开心鸭"
+        })
+        console.log(ret)
+    </script>
+</head>
+<body>
+
+</body>
+</html>

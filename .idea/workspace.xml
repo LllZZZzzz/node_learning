@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="093999a9-075d-4233-9e0a-bbf0e9f8c6fa" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07crud-express/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap_node.js" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/bootstrap_node.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13708">
+              <caret line="601" column="5" selection-start-line="601" selection-start-column="5" selection-end-line="601" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package_json" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+      <find>body</find>
+      <find>depende</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/js/blog" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/02buffer/09流式文件的写入和读取.js" />
+        <option value="$PROJECT_DIR$/js/gvnb.js" />
+        <option value="$PROJECT_DIR$/html/jvgv.html" />
+        <option value="$PROJECT_DIR$/js/01node/02module.js" />
+        <option value="$PROJECT_DIR$/js/01node/package.json" />
+        <option value="$PROJECT_DIR$/js/02buffer/02buffer.js" />
+        <option value="$PROJECT_DIR$/js/02buffer/03同步文件写入.js" />
+        <option value="$PROJECT_DIR$/js/http/01创建服务器" />
+        <option value="$PROJECT_DIR$/js/http/html+file.js" />
+        <option value="$PROJECT_DIR$/js/http/小可爱的可爱文件夹/demo1.html" />
+        <option value="$PROJECT_DIR$/js/http/小可爱的可爱文件夹/demo2.html" />
+        <option value="$PROJECT_DIR$/js/http/小可爱的可爱文件夹/demo3" />
+        <option value="$PROJECT_DIR$/js/http/package.json" />
+        <option value="$PROJECT_DIR$/js/http/art-template.html" />
+        <option value="$PROJECT_DIR$/js/http/小可爱的可爱文件夹/index.html" />
+        <option value="$PROJECT_DIR$/js/http/dsxz.html" />
+        <option value="$PROJECT_DIR$/js/留言板/views/index.html" />
+        <option value="$PROJECT_DIR$/js/留言板/public/fc.js" />
+        <option value="$PROJECT_DIR$/js/模块加载规则/a.js" />
+        <option value="$PROJECT_DIR$/js/模块加载规则/c.js" />
+        <option value="$PROJECT_DIR$/js/模块加载规则/b.js" />
+        <option value="$PROJECT_DIR$/js/http/小案例啦.js" />
+        <option value="$PROJECT_DIR$/js/02buffer/07简单文件的读取.js" />
+        <option value="$PROJECT_DIR$/js/留言板/node_modules/art-template/package.json" />
+        <option value="$PROJECT_DIR$/js/http/02response.js" />
+        <option value="$PROJECT_DIR$/js/留言板/package-lock.json" />
+        <option value="$PROJECT_DIR$/js/留言板/app.js" />
+        <option value="$PROJECT_DIR$/js/express留言板/views/post.html" />
+        <option value="$PROJECT_DIR$/js/crud-express/public/css/main.css" />
+        <option value="$PROJECT_DIR$/js/crud-express/package.json" />
+        <option value="$PROJECT_DIR$/js/crud-express/views/fhbffvfv.html" />
+        <option value="$PROJECT_DIR$/js/crud-express/dcxxdsc.js" />
+        <option value="$PROJECT_DIR$/js/crud-express/深拷贝.js" />
+        <option value="$PROJECT_DIR$/js/留言板/views/post.html" />
+        <option value="$PROJECT_DIR$/js/express留言板/app.js" />
+        <option value="$PROJECT_DIR$/js/crud-express/bbb.js" />
+        <option value="$PROJECT_DIR$/js/crud-express/aaa.js" />
+        <option value="$PROJECT_DIR$/js/mongoose-demo/demo.js" />
+        <option value="$PROJECT_DIR$/js/mongoose-demo/demo1.js" />
+        <option value="$PROJECT_DIR$/js/mongoose-demo/demo2.js" />
+        <option value="$PROJECT_DIR$/js/crud-express/db.json" />
+        <option value="$PROJECT_DIR$/js/crud-express/views/new.html" />
+        <option value="$PROJECT_DIR$/js/crud-express/views/ds.html" />
+        <option value="$PROJECT_DIR$/js/crud-express/student-fs.js" />
+        <option value="$PROJECT_DIR$/js/crud-express/router.js" />
+        <option value="$PROJECT_DIR$/js/crud-express/student.js" />
+        <option value="$PROJECT_DIR$/js/crud-express/views/edit.html" />
+        <option value="$PROJECT_DIR$/js/crud-express/views/index.html" />
+        <option value="$PROJECT_DIR$/js/crud-express/mongorouter.js" />
+        <option value="$PROJECT_DIR$/js/crud-express/app.js" />
+        <option value="$PROJECT_DIR$/07crud-express/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/03http/node_modules" />
+    <handled-path value="$PROJECT_DIR$/04fuxi/node_modules" />
+    <handled-path value="$PROJECT_DIR$/04留言板/node_modules" />
+    <handled-path value="$PROJECT_DIR$/05express留言板/node_modules" />
+    <handled-path value="$PROJECT_DIR$/05fuxi/node_modules" />
+    <handled-path value="$PROJECT_DIR$/06mongoose-demo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/07crud-express/node_modules" />
+    <handled-path value="$PROJECT_DIR$/blog/node_modules" />
+    <handled-path value="$PROJECT_DIR$/my_blog/node_modules" />
+    <handled-path value="$PROJECT_DIR$/练习/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/01node/package.json" />
+      <path value="$PROJECT_DIR$/02buffer/package.json" />
+      <path value="$PROJECT_DIR$/03http/package.json" />
+      <path value="$PROJECT_DIR$/04fuxi/package.json" />
+      <path value="$PROJECT_DIR$/04fuxi/public/lib/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/04留言板/package.json" />
+      <path value="$PROJECT_DIR$/04留言板/public/lib/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/05express留言板/package.json" />
+      <path value="$PROJECT_DIR$/05express留言板/public/lib/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/05fuxi/package.json" />
+      <path value="$PROJECT_DIR$/05fuxi/public/lib/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/06mongoose-demo/package.json" />
+      <path value="$PROJECT_DIR$/07crud-express/package.json" />
+      <path value="$PROJECT_DIR$/blog/package.json" />
+      <path value="$PROJECT_DIR$/my_blog/package.json" />
+      <path value="$PROJECT_DIR$/练习/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="615" />
+    <option name="y" value="30" />
+    <option name="width" value="1350" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="我的node" type="b2602c69:ProjectViewProjectNode" />
+              <item name="我的node" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="我的node" type="b2602c69:ProjectViewProjectNode" />
+              <item name="我的node" type="462c0819:PsiDirectoryNode" />
+              <item name="07crud-express" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="model.&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
+    <property name="last_opened_file_path" value="E:/百度网盘/尚硅谷-React/源代码/code" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\我的node\js\01node" />
+      <recent name="E:\我的node\js\02buffer" />
+      <recent name="E:\我的node\js\" />
+      <recent name="E:\我的node\js\." />
+      <recent name="E:\我的node\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\我的node\js\crud-express\node_modules\depd" />
+      <recent name="E:\我的node\js\express留言板\node_modules" />
+      <recent name="E:\我的node\js" />
+      <recent name="E:\我的node\js\express留言板" />
+      <recent name="E:\我的node\js\留言板\public\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js (1)">
+    <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/07crud-express" />
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/05留言板/app.js" working-dir="$PROJECT_DIR$/js/05留言板" />
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/07crud-express/app.js" working-dir="$PROJECT_DIR$/js/07crud-express" />
+    <configuration name="bootstrap_node.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="bootstrap_node.js" working-dir="$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules" />
+    <configuration name="demo1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/06mongoose-demo/demo1.js" working-dir="$PROJECT_DIR$/js/06mongoose-demo" />
+    <configuration name="demo2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/06mongoose-demo/demo2.js" working-dir="$PROJECT_DIR$/js/06mongoose-demo" />
+    <list>
+      <item itemvalue="Node.js.app.js" />
+      <item itemvalue="Node.js.demo1.js" />
+      <item itemvalue="Node.js.demo2.js" />
+      <item itemvalue="Node.js.app.js (1)" />
+      <item itemvalue="Node.js.bootstrap_node.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js (1)" />
+        <item itemvalue="Node.js.bootstrap_node.js" />
+        <item itemvalue="Node.js.demo2.js" />
+        <item itemvalue="Node.js.demo1.js" />
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="093999a9-075d-4233-9e0a-bbf0e9f8c6fa" name="Default" comment="" />
+      <created>1525872712192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525872712192</updated>
+      <workItem from="1525872713590" duration="1127000" />
+      <workItem from="1525933015514" duration="7867000" />
+      <workItem from="1525969592370" duration="8000" />
+      <workItem from="1526025758378" duration="4939000" />
+      <workItem from="1526037061532" duration="351000" />
+      <workItem from="1526039034039" duration="537000" />
+      <workItem from="1526084852570" duration="5115000" />
+      <workItem from="1526105700157" duration="2110000" />
+      <workItem from="1526116267211" duration="242000" />
+      <workItem from="1526176226035" duration="3298000" />
+      <workItem from="1526186270337" duration="2031000" />
+      <workItem from="1526277779690" duration="270000" />
+      <workItem from="1526287783216" duration="752000" />
+      <workItem from="1527505022966" duration="105000" />
+      <workItem from="1527505280205" duration="325000" />
+      <workItem from="1527857976586" duration="1130000" />
+      <workItem from="1533268131244" duration="1374000" />
+      <workItem from="1535879467302" duration="2418000" />
+      <workItem from="1535946171249" duration="2367000" />
+      <workItem from="1535956697849" duration="608000" />
+      <workItem from="1536114985673" duration="6819000" />
+      <workItem from="1536195140605" duration="8345000" />
+      <workItem from="1536280458599" duration="3343000" />
+      <workItem from="1536366562269" duration="450000" />
+      <workItem from="1536367553398" duration="4544000" />
+      <workItem from="1536458816922" duration="5152000" />
+      <workItem from="1536478824314" duration="881000" />
+      <workItem from="1536485097451" duration="760000" />
+      <workItem from="1536671662536" duration="15000" />
+      <workItem from="1537104857790" duration="770000" />
+      <workItem from="1538448184374" duration="5890000" />
+      <workItem from="1538472488135" duration="1229000" />
+      <workItem from="1538484934713" duration="704000" />
+      <workItem from="1538613149079" duration="2481000" />
+      <workItem from="1538637459932" duration="54000" />
+      <workItem from="1538641644612" duration="5926000" />
+      <workItem from="1538701175703" duration="23052000" />
+      <workItem from="1538741179751" duration="616000" />
+      <workItem from="1538786735085" duration="9177000" />
+      <workItem from="1538799903781" duration="1163000" />
+      <workItem from="1538872828366" duration="12508000" />
+      <workItem from="1539153372008" duration="7603000" />
+      <workItem from="1539184696576" duration="54000" />
+      <workItem from="1539218667042" duration="14799000" />
+      <workItem from="1539303042064" duration="6241000" />
+      <workItem from="1539406628632" duration="598000" />
+      <workItem from="1543140105982" duration="1625000" />
+      <workItem from="1543888417792" duration="1000" />
+      <workItem from="1543888452853" duration="571000" />
+      <workItem from="1543909963209" duration="1213000" />
+      <workItem from="1543924348075" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="163590000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49501" visible="true" weight="0.18229854" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26732674" />
+      <window_info id="Structure" order="1" sideWeight="0.50499004" side_tool="true" weight="0.18205805" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.25884017" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49501" visible="true" weight="0.18205805" />
+      <window_info id="Structure" order="1" sideWeight="0.50499004" side_tool="true" weight="0.18205805" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2028169" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.25915492" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/07crud-express/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/bootstrap_node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13823">
+          <caret line="601" column="5" selection-start-line="601" selection-start-column="5" selection-end-line="601" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07crud-express/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/bootstrap_node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13823">
+          <caret line="601" column="5" lean-forward="true" selection-start-line="601" selection-start-column="5" selection-end-line="601" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/07crud-express/app.js" />
+    <entry file="file://$PROJECT_DIR$/js/07crud-express/aaa.js" />
+    <entry file="file://$PROJECT_DIR$/js/07crud-express/app.js" />
+    <entry file="file://$PROJECT_DIR$/js/07crud-express/aaa.js" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/bootstrap_node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13708">
+          <caret line="601" column="5" selection-start-line="601" selection-start-column="5" selection-end-line="601" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07crud-express/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

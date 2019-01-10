@@ -1,0 +1,11 @@
+var http=require("http");
+/*1.创建server实例*/
+var server=http.createServer();
+/*2.绑定端口启动服务*/
+server.listen(3000,function () {
+    console.log("我启动啦")
+})
+/*3.绑定请求监听*/
+server.on("request",function () {
+    console.log("我请求了")
+})
